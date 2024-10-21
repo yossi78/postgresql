@@ -1,5 +1,4 @@
 package com.example.postgresql.api;
-
 import com.example.postgresql.repository.User;
 import com.example.postgresql.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
